@@ -10,26 +10,9 @@
 ## 2. Normas sobre Monografia na FA7
    - Este tópico aborda as diretrizes específicas da instituição para a elaboração de monografias, incluindo aspectos como estrutura, formatação, citações e critérios de avaliação.
 
-## 3. O que é uma Monografia Científica e Tipos de Trabalhos
+## 3. Tipos de Trabalhos
 
-### Monografia Científica
-A Monografia Científica é uma forma de trabalho acadêmico que se caracteriza principalmente pela análise detalhada de um tema específico dentro de uma área de estudo. Ela é fundamental no contexto acadêmico, principalmente em cursos de graduação e pós-graduação, servindo como uma ferramenta para a demonstração da capacidade de investigação científica do estudante. Abaixo estão alguns aspectos importantes sobre a Monografia Científica:
-
-- **Foco em um Tema Específico**: A monografia requer que o estudante escolha um tema específico para estudar. Esse tema geralmente é uma questão ou problema dentro de uma área de estudo maior. O objetivo é permitir que o estudante se aprofunde em um assunto particular, demonstrando sua capacidade de realizar uma análise detalhada e focada.
-
-- **Pesquisa Baseada em Evidências**: A monografia científica deve ser fundamentada em evidências sólidas. Isso significa que o estudante precisa realizar uma pesquisa extensa, utilizando fontes confiáveis e relevantes. O processo de pesquisa inclui a coleta, análise e interpretação de dados, que podem ser quantitativos, qualitativos ou uma combinação de ambos.
-
-- **Estrutura e Organização**: Uma monografia científica típica segue uma estrutura organizada, que inclui uma introdução, revisão da literatura, metodologia, apresentação e análise de dados, e uma conclusão. Cada seção tem um propósito específico e contribui para o desenvolvimento do argumento ou hipótese central da monografia.
-
-- **Desenvolvimento de Argumentos**: O estudante deve ser capaz de desenvolver um argumento coerente ao longo da monografia. Isso envolve a interpretação dos dados coletados e a ligação destes com o conhecimento existente no campo de estudo. A argumentação deve ser lógica, sistemática e baseada em evidências.
-
-- **Contribuição para o Campo de Estudo**: Idealmente, uma monografia científica deve oferecer alguma contribuição para o campo de estudo. Isso pode ser na forma de novos insights, confirmação de estudos anteriores, ou até mesmo a sugestão de direções para futuras pesquisas.
-
-- **Habilidades Demonstradas**: Ao elaborar uma monografia científica, o estudante demonstra uma série de habilidades importantes, incluindo capacidade de pesquisa, pensamento crítico, análise detalhada, habilidades de escrita acadêmica e a capacidade de formular e testar hipóteses.
-
-A monografia científica é, portanto, uma ferramenta importante para a formação acadêmica, permitindo aos estudantes aplicar o conhecimento teórico adquirido ao longo de seu curso em uma investigação aprofundada e bem fundamentada.
-
-### Tipos de Trabalhos 
+## Tipos de Trabalhos 
 Inclui diferentes formatos de trabalhos acadêmicos como teses, dissertações, artigos científicos, relatórios de pesquisa, entre outros.
 
 Os trabalhos acadêmicos podem variar em formato, objetivo e profundidade, dependendo do nível de estudo e do campo de pesquisa. Aqui estão alguns dos tipos mais comuns de trabalhos acadêmicos:
@@ -85,3 +68,20 @@ Os trabalhos acadêmicos podem variar em formato, objetivo e profundidade, depen
     - **Características**: Linguagem técnica e detalhamento específico, voltados para um público especializado.
 
 Cada um desses formatos tem suas próprias regras e convenções, e a escolha de qual usar geralmente depende do contexto acadêmico, do objetivo do trabalho e da área de estudo.
+
+## Monografia Científica
+A Monografia Científica é uma forma de trabalho acadêmico que se caracteriza principalmente pela análise detalhada de um tema específico dentro de uma área de estudo. Ela é fundamental no contexto acadêmico, principalmente em cursos de graduação e pós-graduação, servindo como uma ferramenta para a demonstração da capacidade de investigação científica do estudante. Abaixo estão alguns aspectos importantes sobre a Monografia Científica:
+
+- **Foco em um Tema Específico**: A monografia requer que o estudante escolha um tema específico para estudar. Esse tema geralmente é uma questão ou problema dentro de uma área de estudo maior. O objetivo é permitir que o estudante se aprofunde em um assunto particular, demonstrando sua capacidade de realizar uma análise detalhada e focada.
+
+- **Pesquisa Baseada em Evidências**: A monografia científica deve ser fundamentada em evidências sólidas. Isso significa que o estudante precisa realizar uma pesquisa extensa, utilizando fontes confiáveis e relevantes. O processo de pesquisa inclui a coleta, análise e interpretação de dados, que podem ser quantitativos, qualitativos ou uma combinação de ambos.
+
+- **Estrutura e Organização**: Uma monografia científica típica segue uma estrutura organizada, que inclui uma introdução, revisão da literatura, metodologia, apresentação e análise de dados, e uma conclusão. Cada seção tem um propósito específico e contribui para o desenvolvimento do argumento ou hipótese central da monografia.
+
+- **Desenvolvimento de Argumentos**: O estudante deve ser capaz de desenvolver um argumento coerente ao longo da monografia. Isso envolve a interpretação dos dados coletados e a ligação destes com o conhecimento existente no campo de estudo. A argumentação deve ser lógica, sistemática e baseada em evidências.
+
+- **Contribuição para o Campo de Estudo**: Idealmente, uma monografia científica deve oferecer alguma contribuição para o campo de estudo. Isso pode ser na forma de novos insights, confirmação de estudos anteriores, ou até mesmo a sugestão de direções para futuras pesquisas.
+
+- **Habilidades Demonstradas**: Ao elaborar uma monografia científica, o estudante demonstra uma série de habilidades importantes, incluindo capacidade de pesquisa, pensamento crítico, análise detalhada, habilidades de escrita acadêmica e a capacidade de formular e testar hipóteses.
+
+A monografia científica é, portanto, uma ferramenta importante para a formação acadêmica, permitindo aos estudantes aplicar o conhecimento teórico adquirido ao longo de seu curso em uma investigação aprofundada e bem fundamentada.
