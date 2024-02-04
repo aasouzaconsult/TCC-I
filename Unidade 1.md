@@ -11,10 +11,6 @@
    - Este tópico aborda as diretrizes específicas da instituição para a elaboração de monografias, incluindo aspectos como estrutura, formatação, citações e critérios de avaliação.
 
 ## 3. Tipos de Trabalhos
-
-## Tipos de Trabalhos 
-Inclui diferentes formatos de trabalhos acadêmicos como teses, dissertações, artigos científicos, relatórios de pesquisa, entre outros.
-
 Os trabalhos acadêmicos podem variar em formato, objetivo e profundidade, dependendo do nível de estudo e do campo de pesquisa. Aqui estão alguns dos tipos mais comuns de trabalhos acadêmicos:
 
 1. **Teses**:
