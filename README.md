@@ -23,3 +23,6 @@
 - **UNIDADE III** - O Projeto de Monografia
 - **UNIDADE IV** - Normas de Apresentação
 - **UNIDADE V** - Técnicas de Coleta, Processamento e Análise de Dados
+
+## Dicas 
+- [Dicas TCC](https://www.youtube.com/@tccpratico)
