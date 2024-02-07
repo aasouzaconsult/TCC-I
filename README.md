@@ -17,7 +17,7 @@
 - [NBR 14724 (abr. 2011) Informação e documentação Trabalhos acadêmicos – Apresentação](http://site.ufvjm.edu.br/revistamultidisciplinar/files/2011/09/NBR_14724_atualizada_abr_2011.pdf)
 - [NBR 6022 (mai. 2018) Informação e documentação – artigo em publicação periódica técnica e/ou científica – Apresentação.](https://blogdozouza.files.wordpress.com/2024/02/norma_da_abnt_6022-_2018.pdf)
 
-
+## Material do curso
 - [**UNIDADE I** - Introdução à disciplina](https://github.com/aasouzaconsult/tcc-I/blob/main/Unidade%201.md)
 - **UNIDADE II** - Tipos de Pesquisa Científica
 - **UNIDADE III** - O Projeto de Monografia
