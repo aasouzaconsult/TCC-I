@@ -6,7 +6,7 @@
 
 [**Manual TCC Uni7**](https://blogdozouza.files.wordpress.com/2024/02/manual_tcc_uni7.pdf)
 
-[**Template**](https://blogdozouza.files.wordpress.com/2024/02/template.docx)
+[**Template**](https://blogdozouza.files.wordpress.com/2024/02/template-1.docx)
 
 **Associação Brasileira de Normas Técnicas (ABNT)**
 - [NBR 6023 (nov. 2018) Referências – Elaboração](https://www.ufpe.br/documents/40070/1837975/ABNT+NBR+6023+2018+%281%29.pdf/3021f721-5be8-4e6d-951b-fa354dc490ed)
