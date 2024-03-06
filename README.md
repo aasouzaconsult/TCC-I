@@ -8,6 +8,8 @@
 
 [**Template**](https://blogdozouza.files.wordpress.com/2024/02/template-1.docx)
 
+[**Pesquisa de Artigos - Google Acadêmico**](https://scholar.google.com/)
+
 **Associação Brasileira de Normas Técnicas (ABNT)**
 - [NBR 6023 (nov. 2018) Referências – Elaboração](https://www.ufpe.br/documents/40070/1837975/ABNT+NBR+6023+2018+%281%29.pdf/3021f721-5be8-4e6d-951b-fa354dc490ed)
 - [NBR 6024 (mar. 2012) Numeração progressiva das seções de um documento escrito – Apresentação](https://cnm.paginas.ufsc.br/files/2020/02/ABNT-NBR-6024.pdf)
