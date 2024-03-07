@@ -8,7 +8,6 @@
 
 [**Template**](https://blogdozouza.files.wordpress.com/2024/02/template-1.docx)
 
-[**Pesquisa de Artigos - Google Acadêmico**](https://scholar.google.com/)
 
 **Associação Brasileira de Normas Técnicas (ABNT)**
 - [NBR 6023 (nov. 2018) Referências – Elaboração](https://www.ufpe.br/documents/40070/1837975/ABNT+NBR+6023+2018+%281%29.pdf/3021f721-5be8-4e6d-951b-fa354dc490ed)
@@ -26,5 +25,11 @@
 - **UNIDADE IV** - Normas de Apresentação
 - **UNIDADE V** - Técnicas de Coleta, Processamento e Análise de Dados
 
+## Fichamento
+O fichamento é uma técnica de estudo que consiste em registrar as informações mais relevantes de livros, artigos, documentos e outras fontes, organizando-as de forma eficiente para facilitar a consulta e o uso posterior.
+
+- [Exemplo](https://blogdozouza.files.wordpress.com/2024/03/fichamento.xlsx)
+
 ## Dicas 
 - [Dicas TCC](https://www.youtube.com/@tccpratico)
+- [*Pesquisa de Artigos - Google Acadêmico*](https://scholar.google.com/)
