@@ -28,7 +28,7 @@
 ## Fichamento
 O fichamento é uma técnica de estudo que consiste em registrar as informações mais relevantes de livros, artigos, documentos e outras fontes, organizando-as de forma eficiente para facilitar a consulta e o uso posterior.
 
-- [Exemplo](https://blogdozouza.files.wordpress.com/2024/03/fichamento.xlsx)
+- [Exemplo](https://blogdozouza.files.wordpress.com/2024/03/fichamento-1.xlsx)
 
 ## Dicas 
 - [Dicas TCC](https://www.youtube.com/@tccpratico)
