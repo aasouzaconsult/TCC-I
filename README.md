@@ -8,6 +8,8 @@
 
 [**Template**](https://blogdozouza.files.wordpress.com/2024/02/template-1.docx)
 
+[**Template - online (google docs)](https://docs.google.com/document/d/18l9YgBNatzy6kzQP6xVGzHr48BUcaCyfkoIrykwm2n8/edit?usp=sharing)
+
 
 **Associação Brasileira de Normas Técnicas (ABNT)**
 - [NBR 6023 (nov. 2018) Referências – Elaboração](https://www.ufpe.br/documents/40070/1837975/ABNT+NBR+6023+2018+%281%29.pdf/3021f721-5be8-4e6d-951b-fa354dc490ed)
