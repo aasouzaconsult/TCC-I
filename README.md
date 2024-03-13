@@ -8,7 +8,7 @@
 
 [**Template**](https://blogdozouza.files.wordpress.com/2024/02/template-1.docx)
 
-[**Template - online (google docs)](https://docs.google.com/document/d/18l9YgBNatzy6kzQP6xVGzHr48BUcaCyfkoIrykwm2n8/edit?usp=sharing)
+[**Template - online (google docs)**](https://docs.google.com/document/d/18l9YgBNatzy6kzQP6xVGzHr48BUcaCyfkoIrykwm2n8/edit?usp=sharing)
 
 
 **Associação Brasileira de Normas Técnicas (ABNT)**
