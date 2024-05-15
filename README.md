@@ -26,6 +26,7 @@
 - [**UNIDADE III** - O Projeto de Monografia](https://github.com/aasouzaconsult/TCC-I/blob/main/Unidade%203.md)
 - [**UNIDADE IV** - Normas de Apresentação](https://github.com/aasouzaconsult/TCC-I/blob/main/Unidade%204.md)
 - [**UNIDADE V** - Técnicas de Coleta, Processamento e Análise de Dados](https://github.com/aasouzaconsult/TCC-I/blob/main/Unidade%205.md)
+- [**UNIDADE VI** - Um compilado de informações](https://github.com/aasouzaconsult/TCC-I/blob/main/Unidade%206.md)
 
 ## Fichamento
 O fichamento é uma técnica de estudo que consiste em registrar as informações mais relevantes de livros, artigos, documentos e outras fontes, organizando-as de forma eficiente para facilitar a consulta e o uso posterior.
