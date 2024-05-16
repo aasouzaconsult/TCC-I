@@ -305,14 +305,13 @@ NGUYEN, L.; HO, D. **Future directions in the development of LLMs for practical 
 
 SMITH, A. **A comprehensive review of LLM literature**. International Journal of Artificial Intelligence, v. 37, n. 5, 2021. p. 780-805.
 
-
+------------------------------------
 #### Outras informações sobre referências - padrão *APA (American Psychological Association)* - Só para conhecimento mesmo
 
 Brown, T. et al. (2019). **Understanding the capabilities and limitations of GPT-3**. Journal of AI Research, 34(4), 101-120.
 Doe, J., & White, P. (2022). **The impact of LLMs on modern technology**. Tech Innovation Journal, 39(1), 15-29.
 
 ------------------------------------
-
 Essas citações e referências (exemplo em 2 padrões, **ABNT** e **APA**) são exemplos fictícios e devem ser substituídas por fontes reais relevantes para o seu trabalho.
 - **Informações importantes**
    - **et al.** (é uma abreviação do latim "et alii", que significa "e outros". Esse termo é usado em referências bibliográficas quando há muitos autores, e apenas o primeiro autor é listado seguido de "et al." para indicar que há outros coautores no trabalho)
