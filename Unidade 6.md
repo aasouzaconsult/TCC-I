@@ -282,31 +282,36 @@ O presente trabalho investiga o desempenho de diferentes Large Language Models (
 
 ### Introdução
 
-Nos últimos anos, os Large Language Models (LLMs) transformaram a maneira como interagimos com dados e informações, impulsionando avanços significativos em diversas áreas da tecnologia (Doe & White, 2022). Este trabalho foca na comparação entre diferentes modelos de LLMs para determinar qual deles é mais eficaz para responder a perguntas em diversos contextos. A motivação para este estudo surge da necessidade crescente de sistemas de processamento de linguagem natural que sejam não apenas precisos, mas também eficientes e escaláveis. A introdução aos modelos selecionados, GPT-3 e BERT, fornece um panorama de suas capacidades e limitações (Brown et al., 2019). Com base nisso, estabelecemos como objetivo principal avaliar e comparar esses modelos sob várias métricas de desempenho, utilizando uma metodologia que combina revisão teórica e testes práticos.
+"Nos últimos anos, os Large Language Models (LLMs) transformaram a maneira como interagimos com dados e informações, impulsionando avanços significativos em diversas áreas da tecnologia" (DOE; WHITE, 2022). Este trabalho foca na comparação entre diferentes modelos de LLMs para determinar qual deles é mais eficaz para responder a perguntas em diversos contextos. A motivação para este estudo surge da necessidade crescente de sistemas de processamento de linguagem natural que sejam não apenas precisos, mas também eficientes e escaláveis. "A introdução aos modelos selecionados, GPT-3 e BERT, fornece um panorama de suas capacidades e limitações" (BROWN et al., 2019). Com base nisso, estabelecemos como objetivo principal avaliar e comparar esses modelos sob várias métricas de desempenho, utilizando uma metodologia que combina revisão teórica e testes práticos.
 
 ### Desenvolvimento do Texto
 
-A metodologia aplicada neste estudo envolve inicialmente uma revisão bibliográfica detalhada sobre os modelos GPT-3 e BERT, explorando suas arquiteturas, usos anteriores e desempenho reportado em trabalhos acadêmicos e relatórios técnicos (Kim & Park, 2021). Segue-se a fase de implementação, onde os modelos são configurados e testados em um ambiente controlado. Os critérios de avaliação incluem a precisão na resposta a perguntas, a velocidade de processamento e a capacidade de adaptação a diferentes tipos de consultas (Lee et al., 2022). Para cada modelo, documentamos as configurações de teste, as dificuldades encontradas durante a implementação e os resultados obtidos em cada métrica.
+Para Kim e Park (2021), a metodologia aplicada neste estudo envolve inicialmente uma revisão bibliográfica detalhada sobre os modelos GPT-3 e BERT, explorando suas arquiteturas, usos anteriores e desempenho reportado em trabalhos acadêmicos e relatórios técnicos. Segue-se a fase de implementação, onde os modelos são configurados e testados em um ambiente controlado. "Os critérios de avaliação incluem a precisão na resposta a perguntas, a velocidade de processamento e a capacidade de adaptação a diferentes tipos de consultas" (LEE et al., 2022). Para cada modelo, documentamos as configurações de teste, as dificuldades encontradas durante a implementação e os resultados obtidos em cada métrica.
 
 ### Conclusão
 
-Os testes realizados revelaram que, enquanto o modelo GPT-3 mostrou maior precisão e adaptabilidade, o BERT se destacou pela sua velocidade de processamento, oferecendo um melhor desempenho em tarefas que requerem respostas rápidas (Chen, 2023). Este estudo não apenas esclarece as capacidades relativas de cada modelo, mas também destaca a importância de escolher o LLM apropriado com base no requisito específico da aplicação. Recomenda-se que trabalhos futuros explorem a combinação desses modelos para potencializar suas qualidades complementares (Nguyen & Ho, 2023). Além disso, sugere-se a expansão deste estudo para incluir mais modelos e uma gama ainda maior de cenários de testes.
+"Os testes realizados revelaram que, enquanto o modelo GPT-3 mostrou maior precisão e adaptabilidade, o BERT se destacou pela sua velocidade de processamento, oferecendo um melhor desempenho em tarefas que requerem respostas rápidas" (CHEN, 2023). Este estudo não apenas esclarece as capacidades relativas de cada modelo, mas também destaca a importância de escolher o LLM apropriado com base no requisito específico da aplicação. Conforme Nguyen e Ho (2023) recomenda-se que trabalhos futuros explorem a combinação desses modelos para potencializar suas qualidades complementares. Além disso, sugere-se a expansão deste estudo para incluir mais modelos e uma gama ainda maior de cenários de testes.
 
-### Referências
+### REFERÊNCIAS BIBLIOGRÁFICAS
+BROWN, T. et al. **Understanding the capabilities and limitations of GPT-3**. Journal of AI Research, v. 34, n. 4, 2019. p. 101-120.
+
+CHEN, Q. **Comparative performance analysis of LLMs in high-speed environments.** AI Magazine, v. 45, n. 2, 2023. p. 88-97.
+
+KIM, S.; PARK, H. **Architectural trends in Large Language Models**. Advances in Computer Science, v. 52, n. 6, 2021. p. 675-690.
+
+LEE, J. et al. **Adaptive responses in LLMs: A comparative study**. Journal of AI Research, v. 34, n. 3, 2022. p. 201-215.
+
+NGUYEN, L.; HO, D. **Future directions in the development of LLMs for practical applications**. AI & Society, v. 48, n. 1, 2023. p. 134-145.
+
+SMITH, A. **A comprehensive review of LLM literature**. International Journal of Artificial Intelligence, v. 37, n. 5, 2021. p. 780-805.
+
+
+#### Outras informações sobre referências - padrão *APA (American Psychological Association)* - Só para conhecimento mesmo
+
 Brown, T. et al. (2019). **Understanding the capabilities and limitations of GPT-3**. Journal of AI Research, 34(4), 101-120.
-
-Chen, Q. (2023). **Comparative performance analysis of LLMs in high-speed environments**. AI Magazine, 45(2), 88-97.
-
 Doe, J., & White, P. (2022). **The impact of LLMs on modern technology**. Tech Innovation Journal, 39(1), 15-29.
 
-Jones, T., et al. (2020). **Metrics for measuring the efficiency of LLMs.** Computational Linguistics, 46(3), 455-475.
-
-Kim, S., & Park, H. (2021). **Architectural trends in Large Language Models.** Advances in Computer Science, 52(6), 675-690.
-
-Lee, J., et al. (2022). **Adaptive responses in LLMs: A comparative study.** Journal of AI Research, 34(3), 201-215.
-
-Nguyen, L., & Ho, D. (2023). **Future directions in the development of LLMs for practical applications.** AI & Society, 48(1), 134-145.
-
-Smith, A. (2021). **A comprehensive review of LLM literature**. International Journal of Artificial Intelligence, 37(5), 780-805.
-
-Essas citações e referências são exemplos fictícios e devem ser substituídas por fontes reais relevantes para o seu trabalho.
+Essas citações e referências (exemplo em 2 padrões, **ABNT** e **APA**) são exemplos fictícios e devem ser substituídas por fontes reais relevantes para o seu trabalho.
+- **Informações importantes**
+   - et al. (é uma abreviação do latim "et alii", que significa "e outros". Esse termo é usado em referências bibliográficas quando há muitos autores, e apenas o primeiro autor é listado seguido de "et al." para indicar que há outros coautores no trabalho)
+   - Doe, J., & White, P. (O uso do símbolo e-comercial ("&") é típico do estilo APA (American Psychological Association). Neste estilo, quando você cita dois autores dentro do texto, usa-se o "&". Por exemplo, uma citação de dois autores no texto ficaria assim: (Silva & Gomes, 2023). Já nas referências, você listaria os autores da seguinte maneira: Silva, C., & Gomes, M.)
