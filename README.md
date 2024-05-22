@@ -28,6 +28,11 @@
 - [**UNIDADE V** - Técnicas de Coleta, Processamento e Análise de Dados](https://github.com/aasouzaconsult/TCC-I/blob/main/Unidade%205.md)
 - [**UNIDADE VI** - Um compilado de informações](https://github.com/aasouzaconsult/TCC-I/blob/main/Unidade%206.md)
 
+## Projeto TCC
+O que será comentado e programação.
+
+- [Exemplo](https://github.com/aasouzaconsult/TCC-I/blob/main/Projeto%20TCC%20-%20FORMUL%C3%81RIO.docx)
+
 ## Fichamento
 O fichamento é uma técnica de estudo que consiste em registrar as informações mais relevantes de livros, artigos, documentos e outras fontes, organizando-as de forma eficiente para facilitar a consulta e o uso posterior.
 
