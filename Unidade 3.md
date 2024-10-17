@@ -9,8 +9,6 @@
    - **Metodologia**: Descrição das técnicas e processos que serão utilizados para coletar e analisar dados.
    - **Referencial Teórico**: Base teórica que suporta a pesquisa, incluindo teorias, modelos e estudos anteriores relacionados ao tema.
 
-3. **Cronograma
-
- e Orçamento**:
+3. **Cronograma e Orçamento**:
    - **Cronograma**: Planejamento temporal das etapas do projeto de pesquisa.
    - **Orçamento**: Estimativa de custos associados à pesquisa, se aplicável.
